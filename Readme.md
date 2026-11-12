@@ -1,10 +1,10 @@
 # Hi, I'm Muhammad Sameet Ul Hassan 👋
 
-## Full-Stack JavaScript Engineer | React · Next.js · Node.js · React Native · AI Automation
+## Senior Software Engineer | React · Next.js · Node.js · React Native · AI Automation · Python
 
 I build production-ready web and mobile applications with a strong focus on **SaaS platforms, dashboards, API integrations, payment workflows, healthcare systems, fintech solutions, restaurant tech, cloud infrastructure, scalable backend systems, and AI-powered automation**.
 
-I work mainly with **React, Next.js, Node.js, TypeScript, Express.js, NestJS, Supabase, MongoDB, PostgreSQL, MySQL, Firebase, Prisma, Stripe, AWS, Docker, CI/CD pipelines, and React Native**.
+I work mainly with **React, Next.js, Node.js, TypeScript, Express.js, NestJS, Python, Supabase, MongoDB, PostgreSQL, Firebase, Prisma, Stripe, AWS, Docker, CI/CD pipelines, and React Native**.
 
 ---
 
